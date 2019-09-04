@@ -1,6 +1,7 @@
 Hi My Name is Zilfana Falahi
 
-git config --global user.name "username anda"
-git config --global user.email "email anda"
+1. git config --global user.name "username anda"
+2. git config --global user.email "email anda"
+3. buat folder sesuai nama repository anda dengan perintah "mkdir", misal : mkdir firsttime
+4. ketikkan perintah git add untuk menambahkan file di repository, misal : git add first.txt
 
-buat folder sesuai nama repository anda dengan perintah "mkdir", misal :mkdir firsttime

@@ -2,3 +2,5 @@ Hi My Name is Zilfana Falahi
 
 git config --global user.name "username anda"
 git config --global user.email "email anda"
+
+buat folder sesuai nama repository anda dengan perintah "mkdir", misal :mkdir firsttime

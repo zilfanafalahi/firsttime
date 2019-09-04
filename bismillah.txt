@@ -3,6 +3,8 @@ Hi My Name is Zilfana Falahi
 1. git config --global user.name "username anda"
 2. git config --global user.email "email anda"
 3. buat folder sesuai nama repository anda dengan perintah "mkdir", misal : mkdir firsttime
-4. ketikkan perintah git add untuk menambahkan file di repository, misal : git add first.txt
-5. ketikkan perintah git commit untuk menyimpan perubahan yang dilakukan, misal : git commit -m "keterangan"
-6. ketikkan perintah git push untuk mengirimkan perubahan file setelah di commit ke repository, misal : git push -u origin master 
+4. masuk ke folder yang sudah kita buat tadi
+5. ketikkan perintah git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+6. ketikkan perintah git add untuk menambahkan file di repository, misal : git add first.txt
+7. ketikkan perintah git commit untuk menyimpan perubahan yang dilakukan, misal : git commit -m "keterangan"
+8. ketikkan perintah git push untuk mengirimkan perubahan file setelah di commit ke repository, misal : git push -u origin master 
